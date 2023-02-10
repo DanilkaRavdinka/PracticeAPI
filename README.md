@@ -1,2 +1,2 @@
-![image](https://user-images.githubusercontent.com/124984811/218020901-af817b2b-5385-4317-a2e4-da7effd32e89.png)
+![image](https://user-images.githubusercontent.com/124984811/218023351-6972567f-af7d-4906-9a64-7cfa177f34b7.png)
 # First task
