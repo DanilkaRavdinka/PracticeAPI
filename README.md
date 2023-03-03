@@ -3,3 +3,4 @@
 ### [Task #1](https://github.com/DanilkaRavdinka/PracticeAPI/tree/main/FirstTask)
 ### [Task #2](https://github.com/DanilkaRavdinka/PracticeAPI/tree/main/SecondTask)
 # Day 2
+### [Database](https://github.com/DanilkaRavdinka/PracticeAPI/blob/main/api_shop.txt)
