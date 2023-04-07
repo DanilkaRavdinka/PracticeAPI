@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bD82cnQdLRyd1Dz0uL8rpBAXeEAvrhfGKTLlENAiUOiPk124vRiKVrQeFAuG9fqupSgT1ArN/Fp0Dl4JpQY5ww==",
+  "dgSpecHash": "udyc2HlOG7HUwc6RtH1WALd3acMD6sNFVmmMTuKt1Q6t0U+qJedVqoHn1JwG/HhqxAR9BH+rhQjoqE5nj6M3Lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\BackendApi\\BackendApi.csproj",
+  "projectFilePath": "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\BackendApi\\BackendApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danil\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\danil\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1933,11 +1933,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\BusinessLogic\\BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\BusinessLogic\\BusinessLogic.csproj",
       "projectName": "BusinessLogic",
-      "projectPath": "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\BusinessLogic\\BusinessLogic.csproj",
+      "projectPath": "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\BusinessLogic\\BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\BusinessLogic\\obj\\",
+      "outputPath": "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1954,8 +1954,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\Domain\\Domain.csproj"
+            "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\Domain\\Domain.csproj"
             }
           }
         }

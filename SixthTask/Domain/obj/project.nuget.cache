@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/TtC/IjnX6d3NbNXJvbV20qFUweZo2f6AZf9SAiXimDSBALmpLpgdF4Q2jSfqcA5DvK9luP18rM2rMu/Q2bnhg==",
+  "dgSpecHash": "u0EzUt9x3QRN/dAwVZyx3HN9PHuRi+g8g4BKkeg/30Nn5u+QUgUYvm0Z/XFAL8EnNkO7GM1QuweyTBkF9nkaNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danil\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\danil\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

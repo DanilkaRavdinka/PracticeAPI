@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\Domain\\Domain.csproj"
+              "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\Domain\\Domain.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\Domain\\Domain.csproj": {
+    "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config",

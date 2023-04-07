@@ -2249,11 +2249,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\BackendApi\\BackendApi.csproj",
+      "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\BackendApi\\BackendApi.csproj",
       "projectName": "BackendApi",
-      "projectPath": "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\BackendApi\\BackendApi.csproj",
+      "projectPath": "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\BackendApi\\BackendApi.csproj",
       "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\BackendApi\\obj\\",
+      "outputPath": "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\BackendApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2270,11 +2270,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\BusinessLogic\\BusinessLogic.csproj"
+            "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\BusinessLogic\\BusinessLogic.csproj"
             },
-            "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\danil\\OneDrive\\Рабочий стол\\FifthTask\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\danil\\OneDrive\\Документы\\GitHub\\PracticeAPI\\SixthTask\\DataAccess\\DataAccess.csproj"
             }
           }
         }
