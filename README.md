@@ -2,5 +2,5 @@
 ### [Task #1](https://github.com/DanilkaRavdinka/PracticeAPI/tree/main/FirstTask)
 ### [Task #2](https://github.com/DanilkaRavdinka/PracticeAPI/tree/main/SecondTask)
 ### [Task #4](https://github.com/DanilkaRavdinka/PracticeAPI/blob/main/api_shop.txt)
-### [Task #5](https://github.com/DanilkaRavdinka/PracticeAPI/blob/main/FifthTask.zip)
-### [Task #6](https://github.com/DanilkaRavdinka/PracticeAPI/blob/main/SixthTask.zip)
+### [Task #5](https://github.com/DanilkaRavdinka/PracticeAPI/blob/main/FifthTask)
+### [Task #6](https://github.com/DanilkaRavdinka/PracticeAPI/blob/main/SixthTask)
