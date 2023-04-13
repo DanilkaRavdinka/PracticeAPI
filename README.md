@@ -4,3 +4,4 @@
 ### [Task #4](https://github.com/DanilkaRavdinka/PracticeAPI/blob/main/api_shop.txt)
 ### [Task #5](https://github.com/DanilkaRavdinka/PracticeAPI/blob/main/FifthTask)
 ### [Task #6](https://github.com/DanilkaRavdinka/PracticeAPI/blob/main/SixthTask)
+### [Task #7](https://github.com/DanilkaRavdinka/PracticeAPI/blob/main/SeventhTask)
