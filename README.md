@@ -7,4 +7,5 @@
 ### [Task #7](https://github.com/DanilkaRavdinka/PracticeAPI/blob/main/SeventhTask)
 ### [Task #8](https://github.com/DanilkaRavdinka/PracticeAPI/tree/main/EighthTask)
 ### [Task #9](https://github.com/DanilkaRavdinka/PracticeAPI/tree/main/NinethTask)
-### [Task #10](https://github.com/DanilkaRavdinka/PracticeAPI/tree/main/TenthTask)
+### [Task #10.1](https://github.com/DanilkaRavdinka/PracticeAPI/tree/main/TenthTask)
+### [Task #10.2](https://github.com/DanilkaRavdinka/PracticeAPI/tree/main/docs)
